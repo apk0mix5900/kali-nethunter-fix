@@ -13,6 +13,6 @@ curl -sSL https://raw.githubusercontent.com/apk0mix5900/kali-nethunter-rootless-
 
 git clone https://github.com/apk0mix5900/kali-nethunter-rootless-fix.git
 cd kali-nethunter-rootless-fix
-chmod +x install-nethunter-termux
-./install-nethunter-termux
+chmod +x install-nethunter-termux-fix
+./install-nethunter-termux-fix
 
