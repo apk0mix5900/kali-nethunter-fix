@@ -7,7 +7,7 @@
 
 ### 方法1：一键直达（推荐）
 
-curl -sSL https://raw.githubusercontent.com/apk0mix5900/kali-nethunter-rootless-fix/main/install-nethunter-termux | bash
+curl -sSL https://raw.githubusercontent.com/apk0mix5900/kali-nethunter-rootless-fix/main/install-nethunter-termux-fix | bash
 
 ### 方法2：克隆仓库
 
