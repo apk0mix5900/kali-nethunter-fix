@@ -7,11 +7,11 @@
 
 ### 方法1：一键直达（推荐）
 
-curl -sSL https://raw.githubusercontent.com/apk0mix5900/kali-nethunter-rootless-fix/main/install-nethunter-termux-fix | bash
+curl -sSL https://github.com/apk0mix5900/kali-nethunter-fix.git/install-nethunter-termux-fix | bash
 
 ### 方法2：克隆仓库
 
-git clone https://github.com/apk0mix5900/kali-nethunter-rootless-fix.git
+git clone https://github.com/apk0mix5900/kali-nethunter-fix.git
 cd kali-nethunter-rootless-fix
 chmod +x install-nethunter-termux-fix
 ./install-nethunter-termux-fix
